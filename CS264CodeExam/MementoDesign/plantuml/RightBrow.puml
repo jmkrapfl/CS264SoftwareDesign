@@ -1,0 +1,11 @@
+@startuml
+class RightBrow {
+    + xCoord : int <<get>> <<set>>
+    + yCoord : int <<get>> <<set>>
+    + rotate : int <<get>> <<set>>
+    + style : char <<get>> <<set>>
+    + RightBrow(style:char)
+    + <<override>> printElement(style:char) : string
+}
+Emoji <|-- RightBrow
+@enduml

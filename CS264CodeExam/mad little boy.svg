@@ -1,0 +1,27 @@
+<svg width="119.99999999999999" height="119.99999999999999" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <!--body -->
+  <ellipse fill="#ffff00" stroke="#000000" cx="60" cy="60" id="svg_2" rx="55" ry="55" stroke-width="5"/>
+   <!--right eyebrow -->
+  <path fill="none" stroke="#000" opacity="undefined" d="m27.86616,32.54546l22.10808,12.85354" id="svg_6" stroke-width="5"/>
+
+   <!--left eyebrow -->
+  <path fill="none" stroke="#000" opacity="undefined" d="m74.65302,34.34495l22.10808,12.85353" id="svg_13" stroke-width="5" transform="rotate(125.45 85.7071 40.7717)"/>
+
+   <!--right eye -->
+  <ellipse ry="5" rx="5" id="svg_3" cy="54.08" cx="39.41676" stroke-width="2" stroke="#000" fill="#000000"/>
+  <rect transform="rotate(31.0085 41.3937 49.4284)" id="svg_7" height="3.95384" width="12.55927" y="47.4515" x="35.11405" stroke-width="2" stroke="#ffff00" fill="#ffff00"/>
+
+   <!--left eye -->
+  <ellipse ry="5" rx="5" id="svg_5" cy="54.31257" cx="85.23482" stroke-width="2" stroke="#000" fill="#000000"/>
+  <rect transform="rotate(-22.1134 84.4208 49.4284)" id="svg_9" height="3.95384" width="12.55927" y="47.4515" x="78.14116" stroke-width="2" stroke="#ffff00" fill="#ffff00"/>  
+     
+     <!--mouth -->
+  <line id="svg_10" y2="77.45418" x2="47.20816" y1="86.52477" x1="25.81089" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_12" y2="90.94377" x2="60" y1="77.22161" x1="44.64979" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_16" y2="81.17545" x2="78.8389" y1="90.24603" x1="57.44163" stroke-width="5" stroke="#000000" fill="none"/>
+  <line id="svg_17" y2="94.43245" x2="91.39816" y1="80.71029" x1="76.04795" stroke-width="5" stroke="#000000" fill="none"/>
+ </g>
+
+</svg>

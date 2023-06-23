@@ -1,0 +1,5 @@
+@startuml
+abstract class Emoji {
+    + {abstract} printElement(style:char) : string
+}
+@enduml

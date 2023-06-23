@@ -1,0 +1,25 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <!-- body -->
+  <circle cx="60" cy="63" r="55" stroke="black" stroke-width="3" fill="yellow" id="svg_1"/>
+
+   <!-- left eyebrow -->
+  <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m66.19616,35.65993c1.37925,1.26505 7.49577,6.58819 16.38649,6.01781c7.21271,-0.46299 12.05012,-4.53542 13.65535,-6.01781" id="svg_3" stroke="#000000"/>
+   
+   <!-- right eyebrow -->
+  <path fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m22.65413,35.65993c1.37925,1.26505 7.49577,6.58819 16.38649,6.01781c7.21271,-0.46299 12.05012,-4.53542 13.65535,-6.01781" id="svg_4" stroke="#000000"/>
+
+   <!-- right eye -->
+  <ellipse ry="5" rx="5" id="svg_2" cy="55.09212" cx="37.0736" stroke-width="2" stroke="#000" fill="#000000"/>
+   <path stroke="#00ffff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m31.14453,57.73497c0.54767,0.6349 2.97641,3.30649 6.50673,3.02022c2.86402,-0.23237 4.78485,-2.27624 5.42225,-3.02022" id="svg_8"/>
+     
+   <!-- left eye -->
+  <ellipse ry="5" rx="5" id="svg_7" cy="55.09212" cx="81.22369" stroke-width="2" stroke="#000" fill="#000000"/>
+  <path stroke="#00ffff" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m75.29462,57.35762c0.54767,0.63491 2.97642,3.30649 6.50673,3.02023c2.86402,-0.23237 4.78485,-2.27624 5.42226,-3.02023" id="svg_9"/>
+
+   <!-- mouth -->
+  <path transform="rotate(-179.61 60.0331 85.01)" stroke="#000000" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2" d="m42.44394,78.88403c1.61507,2.55746 8.77738,13.31889 19.18821,12.16579c8.44592,-0.93599 14.11042,-9.16894 15.99011,-12.16579" id="svg_12"/>
+ </g>
+
+</svg>

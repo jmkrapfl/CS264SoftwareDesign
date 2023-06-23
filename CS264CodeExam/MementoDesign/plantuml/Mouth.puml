@@ -1,0 +1,11 @@
+@startuml
+class Mouth {
+    + xCoord : int <<get>> <<set>>
+    + yCoord : int <<get>> <<set>>
+    + rotate : int <<get>> <<set>>
+    + style : char <<get>> <<set>>
+    + Mouth(style:char)
+    + <<override>> printElement(style:char) : string
+}
+Emoji <|-- Mouth
+@enduml

@@ -1,0 +1,24 @@
+<svg width="120" height="120" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Layer 1</title>
+  <!-- body -->
+  <circle id="svg_1" fill="yellow" stroke-width="3" stroke="black" r="55" cy="60" cx="60"/>
+   
+   <!-- right eyebrow -->
+  <path stroke="#000" id="svg_2" d="m55.23596,36.36197a16.01081,8.93515 0 0 0 -29.26337,0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" fill="none" xmlns="http://www.w3.org/2000/svg"/>
+   
+   <!-- left eyebrow -->
+  <path stroke="#000" id="svg_7" d="m96.69464,36.57031a16.01081,8.93515 0 0 0 -29.26337,0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" fill="none" xmlns="http://www.w3.org/2000/svg"/>
+
+   <!-- right eye -->
+  <ellipse ry="5" rx="5" id="svg_8" cy="47.91757" cx="40.104" stroke-width="3" stroke="black" fill="#000000"/>
+   
+   <!-- left eye -->
+  <ellipse ry="5" rx="5" id="svg_10" cy="47.91757" cx="80.52101" stroke-width="3" stroke="black" fill="#000000"/>
+
+   
+  <!-- mouth -->
+  <path transform="rotate(-179.992 60.6044 81.0004)" stroke="#000" id="svg_12" d="m75.23613,83.65403a16.01081,8.93515 0 0 0 -29.26337,0" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" fill="none" xmlns="http://www.w3.org/2000/svg"/>
+ </g>
+
+</svg>

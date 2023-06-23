@@ -1,0 +1,15 @@
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/bin/Debug/net6.0/MementoDesign
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/bin/Debug/net6.0/MementoDesign.deps.json
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/bin/Debug/net6.0/MementoDesign.runtimeconfig.json
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/bin/Debug/net6.0/MementoDesign.dll
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/bin/Debug/net6.0/MementoDesign.pdb
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.csproj.AssemblyReference.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.AssemblyInfoInputs.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.AssemblyInfo.cs
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.csproj.CoreCompileInputs.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.dll
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/refint/MementoDesign.dll
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.pdb
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/MementoDesign.genruntimeconfig.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/MementoDesign/obj/Debug/net6.0/ref/MementoDesign.dll

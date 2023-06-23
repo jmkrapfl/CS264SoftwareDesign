@@ -1,0 +1,15 @@
+@startuml
+!include ./Emoji.puml
+!include ./Memento.puml
+!include ./RightBrow.puml
+!include ./Mouth.puml
+!include ./FeatureFactory.puml
+!include ./LeftEye.puml
+!include ./Caretaker.puml
+!include ./RightEye.puml
+!include ./LeftBrow.puml
+!include ./Program.puml
+!include ./obj/Debug/net6.0/MementoDesign.AssemblyInfo.puml
+!include ./obj/Debug/net6.0/MementoDesign.GlobalUsings.g.puml
+!include ./obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+@enduml

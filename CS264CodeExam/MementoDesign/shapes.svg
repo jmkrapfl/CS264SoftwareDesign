@@ -1,0 +1,11 @@
+<html>
+	<body>
+		<svg width="120" height="120"xmlns="http://www.w3.org/2000/svg>
+			<g>
+				<circle cx="60" cy="60" r="55" stroke="black" stroke-width="3" fill="yellow"/>
+				<ellipse ry="5" rx="5" cy=48 cx="40" stroke-width="3" stroke="black" fill="#000000"/>
+				<ellipse ry="5" rx="5" cy="47.91757" cx="80.52101" stroke-width="3" stroke="black" fill="#000000"/>
+			<g>
+		</svg>
+	</body>
+</html>

@@ -1,0 +1,11 @@
+@startuml
+class LeftEye {
+    + xCoord : int <<get>> <<set>>
+    + yCoord : int <<get>> <<set>>
+    + rotate : int <<get>> <<set>>
+    + style : char <<get>> <<set>>
+    + LeftEye(style:char)
+    + <<override>> printElement(style:char) : string
+}
+Emoji <|-- LeftEye
+@enduml
