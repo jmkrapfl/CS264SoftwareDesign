@@ -1,0 +1,10 @@
+@startuml
+class RemoveFeatureCommand {
+    + RemoveFeatureCommand(c:Emoji, f:Feature)
+    + <<override>> Do() : void
+    + <<override>> Undo() : void
+}
+Command <|-- RemoveFeatureCommand
+RemoveFeatureCommand --> "shape" Feature
+RemoveFeatureCommand --> "canvas" Emoji
+@enduml

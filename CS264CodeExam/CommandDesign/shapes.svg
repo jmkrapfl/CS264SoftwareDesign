@@ -1,0 +1,13 @@
+<html>
+	<body>
+		<svg width="120" height="120"xmlns="http://www.w3.org/2000/svg>
+			<g>
+				<!-- body  -->
+				<circle cx="60" cy="60" r="55" stroke="black" stroke-width="3" fill="yellow"/>
+				<!-- left-eye  -->
+<ellipse ry="5" rx="5" cy="54.31257" cx="85.23482" stroke-width="2" stroke="#000" fill="#000000"/> 
+<rect transform="rotate(-22.1134 84.4208 49.4284)" height="3.95384" width="12.55927" y="47.4515" x="78.14116" stroke-width="2" stroke="#ffff00" fill="#ffff00"/>
+			<g>
+		</svg>
+	</body>
+</html>

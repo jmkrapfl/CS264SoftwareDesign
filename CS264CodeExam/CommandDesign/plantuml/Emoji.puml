@@ -1,0 +1,11 @@
+@startuml
+class Emoji {
+    + Add(s:Feature) : void
+    + Remove() : Feature
+    + Emoji()
+    + removeFeature(removeThis:Feature) : Feature
+    + style(feat:Feature, type:char) : void
+    + WriteToFile() : void
+    + printEmoji() : void
+}
+@enduml

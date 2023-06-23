@@ -1,0 +1,13 @@
+@startuml
+class LeftEye {
+    + <<override>> name : string <<get>>
+    + <<override>> xCoord : int <<get>> <<set>>
+    + <<override>> yCoord : int <<get>> <<set>>
+    + <<override>> style : char <<get>> <<set>>
+    + <<override>> rotate : int <<get>> <<set>>
+    + LeftEye()
+    + LeftEye(f:Feature)
+    + <<override>> printElement() : string
+}
+Feature <|-- LeftEye
+@enduml

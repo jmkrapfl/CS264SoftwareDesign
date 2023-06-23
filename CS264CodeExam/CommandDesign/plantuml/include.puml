@@ -1,0 +1,20 @@
+@startuml
+!include ./Emoji.puml
+!include ./StyleFeatureCommand.puml
+!include ./Feature.puml
+!include ./User.puml
+!include ./RightBrow.puml
+!include ./Mouth.puml
+!include ./Command.puml
+!include ./AddFeatureCommand.puml
+!include ./FeatureFactory.puml
+!include ./LeftEye.puml
+!include ./RightEye.puml
+!include ./DeleteFeatureCommand.puml
+!include ./LeftBrow.puml
+!include ./RemoveFeatureCommand.puml
+!include ./Program.puml
+!include ./obj/Debug/net6.0/CommandDesign.AssemblyInfo.puml
+!include ./obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+!include ./obj/Debug/net6.0/CommandDesign.GlobalUsings.g.puml
+@enduml

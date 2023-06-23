@@ -1,0 +1,5 @@
+@startuml
+class FeatureFactory {
+    + generate(typeOfFeature:string) : Feature
+}
+@enduml

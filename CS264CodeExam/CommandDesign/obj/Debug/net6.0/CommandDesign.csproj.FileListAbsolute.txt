@@ -1,0 +1,15 @@
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.csproj.AssemblyReference.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.AssemblyInfoInputs.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.AssemblyInfo.cs
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.csproj.CoreCompileInputs.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/bin/Debug/net6.0/CommandDesign
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/bin/Debug/net6.0/CommandDesign.deps.json
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/bin/Debug/net6.0/CommandDesign.runtimeconfig.json
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/bin/Debug/net6.0/CommandDesign.dll
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/bin/Debug/net6.0/CommandDesign.pdb
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.dll
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/refint/CommandDesign.dll
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.pdb
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/CommandDesign.genruntimeconfig.cache
+/Users/jessicakrapfl/Desktop/CS264CodeExam/CommandDesign/obj/Debug/net6.0/ref/CommandDesign.dll

@@ -1,0 +1,11 @@
+@startuml
+class StyleFeatureCommand {
+    style : char
+    + StyleFeatureCommand(feature:Feature, style:char, canvas:Emoji)
+    + <<override>> Do() : void
+    + <<override>> Undo() : void
+}
+Command <|-- StyleFeatureCommand
+StyleFeatureCommand --> "feature" Feature
+StyleFeatureCommand --> "canvas" Emoji
+@enduml

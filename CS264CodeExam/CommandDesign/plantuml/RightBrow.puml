@@ -1,0 +1,13 @@
+@startuml
+class RightBrow {
+    + <<override>> name : string <<get>>
+    + <<override>> xCoord : int <<get>> <<set>>
+    + <<override>> yCoord : int <<get>> <<set>>
+    + <<override>> style : char <<get>> <<set>>
+    + <<override>> rotate : int <<get>> <<set>>
+    + RightBrow()
+    + RightBrow(f:Feature)
+    + <<override>> printElement() : string
+}
+Feature <|-- RightBrow
+@enduml

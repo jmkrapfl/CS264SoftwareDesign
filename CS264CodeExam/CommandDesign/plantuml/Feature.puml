@@ -1,0 +1,10 @@
+@startuml
+abstract class Feature {
+    + {abstract} name : string <<get>>
+    + {abstract} style : char <<get>> <<set>>
+    + {abstract} xCoord : int <<get>> <<set>>
+    + {abstract} yCoord : int <<get>> <<set>>
+    + {abstract} rotate : int <<get>> <<set>>
+    + {abstract} printElement() : string
+}
+@enduml
