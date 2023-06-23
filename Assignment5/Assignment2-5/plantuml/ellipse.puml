@@ -1,0 +1,13 @@
+@startuml
+class ellipse {
+    + rx : int <<get>>
+    + ry : int <<get>>
+    + xCoord : int <<get>>
+    + yCoord : int <<get>>
+    + id : int <<get>>
+    + style : string <<get>>
+    + ellipse(id:int, xCoord:int, yCoord:int, rx:int, ry:int, style:string)
+    + <<override>> printshape() : string
+}
+shape <|-- ellipse
+@enduml

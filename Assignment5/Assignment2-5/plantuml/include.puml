@@ -1,0 +1,16 @@
+@startuml
+!include ./circle.puml
+!include ./line.puml
+!include ./ShapeFactory.puml
+!include ./polygon.puml
+!include ./ellipse.puml
+!include ./path.puml
+!include ./StylesFactory.puml
+!include ./rectangle.puml
+!include ./polyline.puml
+!include ./shape.puml
+!include ./Program.puml
+!include ./obj/Debug/net6.0/Assignment2.GlobalUsings.g.puml
+!include ./obj/Debug/net6.0/Assignment2.AssemblyInfo.puml
+!include ./obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+@enduml
