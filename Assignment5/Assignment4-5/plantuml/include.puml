@@ -1,0 +1,22 @@
+@startuml
+!include ./Circle.puml
+!include ./Line.puml
+!include ./ShapeFactory.puml
+!include ./AddShapeCommand.puml
+!include ./Polygon.puml
+!include ./User.puml
+!include ./Command.puml
+!include ./Ellipse.puml
+!include ./Path.puml
+!include ./StylesFactory.puml
+!include ./Canvas.puml
+!include ./ClearCanvasCommand.puml
+!include ./DeleteShapeCommand.puml
+!include ./Rectangle.puml
+!include ./Polyline.puml
+!include ./shape.puml
+!include ./Program.puml
+!include ./obj/Debug/net6.0/Assignment4.GlobalUsings.g.puml
+!include ./obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.puml
+!include ./obj/Debug/net6.0/Assignment4.AssemblyInfo.puml
+@enduml

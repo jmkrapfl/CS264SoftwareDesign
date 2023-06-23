@@ -1,0 +1,7 @@
+@startuml
+class ShapeFactory {
+    + generateDefault(type:string) : shape
+    + generateCustomShape(type:string) : shape
+}
+ShapeFactory o-> "styles" StylesFactory
+@enduml

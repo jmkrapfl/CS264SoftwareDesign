@@ -1,0 +1,10 @@
+@startuml
+class DeleteShapeCommand {
+    + DeleteShapeCommand(c:Canvas)
+    + <<override>> Do() : void
+    + <<override>> Undo() : void
+}
+Command <|-- DeleteShapeCommand
+DeleteShapeCommand --> "shape" shape
+DeleteShapeCommand --> "canvas" Canvas
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+class polyline {
+    + points : string <<get>>
+    + styles : string <<get>>
+    + polyline(points:string, styles:string)
+    + <<override>> printshape() : string
+}
+shape <|-- polyline
+@enduml

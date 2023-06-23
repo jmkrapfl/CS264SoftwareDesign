@@ -1,0 +1,16 @@
+@startuml
+class Caretaker {
+    + addMementoToCanvas(m:Memento) : void
+    + undoFromCanvas() : void
+    + redoToCanvas() : void
+    + clearCanvas() : void
+    + PrintSVG() : void
+    + WriteToFile() : void
+    + getSizeMemento() : int
+    + getSizeCanvas() : int
+}
+class "List`1"<T> {
+}
+Caretaker o-> "mementos<Memento>" "List`1"
+Caretaker o-> "canvas<Memento>" "List`1"
+@enduml

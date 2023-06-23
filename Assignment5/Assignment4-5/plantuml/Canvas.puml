@@ -1,0 +1,11 @@
+@startuml
+class Canvas {
+    + Add(s:shape) : void
+    + Remove() : shape
+    + clearCanvas() : void
+    + backToCanvas() : void
+    + Canvas()
+    + WriteToFile() : void
+    + printCanvasToScreen() : void
+}
+@enduml

@@ -1,0 +1,8 @@
+@startuml
+class Memento {
+    state : string
+    + Memento(state:string)
+    + getState() : string
+    + <<override>> ToString() : string
+}
+@enduml

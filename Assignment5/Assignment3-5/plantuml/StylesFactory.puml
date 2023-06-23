@@ -1,0 +1,6 @@
+@startuml
+class StylesFactory {
+    + customStyles() : string
+    + defaultStyles() : string
+}
+@enduml
