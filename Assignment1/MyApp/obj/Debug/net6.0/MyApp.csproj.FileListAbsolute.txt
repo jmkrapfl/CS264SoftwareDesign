@@ -1,0 +1,17 @@
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/bin/Debug/net6.0/MyApp
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/bin/Debug/net6.0/MyApp.deps.json
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/bin/Debug/net6.0/MyApp.runtimeconfig.json
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/bin/Debug/net6.0/MyApp.dll
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/bin/Debug/net6.0/MyApp.pdb
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.csproj.AssemblyReference.cache
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfoInputs.cache
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.AssemblyInfo.cs
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.dll
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/refint/MyApp.dll
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.pdb
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.genruntimeconfig.cache
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/ref/MyApp.dll
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/bin/Debug/net6.0/HtmlAgilityPack.dll
+/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/obj/Debug/net6.0/MyApp.csproj.CopyComplete

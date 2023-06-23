@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YLYIc3sz6l6OLnlPatUIZ8f2IVXDVI0qv6p4YnREK1oMo/qmKwN+No+bxAsBosEg8WWXwb/+Ii5G/4KviTaGpw==",
+  "success": true,
+  "projectFilePath": "/Users/jessicakrapfl/Desktop/Files/Maynooth/CS264/Hello/MyApp/MyApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/jessicakrapfl/.nuget/packages/htmlagilitypack/1.11.46/htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
