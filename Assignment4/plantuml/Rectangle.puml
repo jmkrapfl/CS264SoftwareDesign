@@ -1,0 +1,11 @@
+@startuml
+class rectangle {
+    + width : int <<get>>
+    + height : int <<get>>
+    + xCoord : int <<get>>
+    + yCoord : int <<get>>
+    + rectangle(width:int, height:int, xCoord:int, yCoord:int)
+    + <<override>> printshape() : string
+}
+shape <|-- rectangle
+@enduml

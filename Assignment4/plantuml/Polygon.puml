@@ -1,0 +1,8 @@
+@startuml
+class polygon {
+    + points : string <<get>>
+    + polygon(points:string)
+    + <<override>> printshape() : string
+}
+shape <|-- polygon
+@enduml

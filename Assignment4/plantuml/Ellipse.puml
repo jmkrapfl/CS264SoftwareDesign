@@ -1,0 +1,11 @@
+@startuml
+class ellipse {
+    + rx : int <<get>>
+    + ry : int <<get>>
+    + xCoord : int <<get>>
+    + yCoord : int <<get>>
+    + ellipse(xCoord:int, yCoord:int, rx:int, ry:int)
+    + <<override>> printshape() : string
+}
+shape <|-- ellipse
+@enduml

@@ -1,0 +1,10 @@
+@startuml
+class ClearCanvasCommand {
+    + ClearCanvasCommand(c:Canvas)
+    + <<override>> Do() : void
+    + <<override>> Undo() : void
+}
+Command <|-- ClearCanvasCommand
+ClearCanvasCommand --> "canvas" Canvas
+ClearCanvasCommand --> "shape" shape
+@enduml

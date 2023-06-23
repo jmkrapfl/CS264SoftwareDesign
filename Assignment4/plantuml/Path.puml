@@ -1,0 +1,8 @@
+@startuml
+class path {
+    + p : string <<get>>
+    + path(p:string)
+    + <<override>> printshape() : string
+}
+shape <|-- path
+@enduml

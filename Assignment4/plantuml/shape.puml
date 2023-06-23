@@ -1,0 +1,6 @@
+@startuml
+abstract class shape {
+    Shape : string
+    + {abstract} printshape() : string
+}
+@enduml
