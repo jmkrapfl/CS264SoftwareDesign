@@ -1,0 +1,8 @@
+<html>
+	<body>
+		<svg width="100" height="100">
+			<circle cx="2" cy="2" r="2"/>
+			<rect width="4" height="3" x="3" y="3"/>
+		</svg>
+	</body>
+</html>

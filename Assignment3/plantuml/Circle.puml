@@ -1,0 +1,10 @@
+@startuml
+class circle {
+    + radius : int <<get>>
+    + xCoord : int <<get>>
+    + yCoord : int <<get>>
+    + circle(radius:int, xCoord:int, yCoord:int)
+    + <<override>> printshape() : string
+}
+shape <|-- circle
+@enduml

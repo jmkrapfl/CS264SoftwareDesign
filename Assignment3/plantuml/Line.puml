@@ -1,0 +1,11 @@
+@startuml
+class line {
+    + xStart : int <<get>>
+    + yStart : int <<get>>
+    + xEnd : int <<get>>
+    + yEnd : int <<get>>
+    + line(xStart:int, yStart:int, xEnd:int, yEnd:int)
+    + <<override>> printshape() : string
+}
+shape <|-- line
+@enduml
